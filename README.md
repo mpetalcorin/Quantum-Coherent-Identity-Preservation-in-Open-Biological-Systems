@@ -1,0 +1,2 @@
+# Quantum-Coherent-Identity-Preservation-in-Open-Biological-Systems
+This repository provides the full simulation and machine learning pipeline used to model sustained coherence, substrate-invariant identity, and many-body tunneling in biological systems. It includes reproducible code for generating all manuscript figures, synthetic datasets, ML regressors and classifiers, and the graphical abstract.
